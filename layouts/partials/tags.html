@@ -1,5 +1,5 @@
 {{ $taxonomy := "tags" }} {{ with .Param $taxonomy }}
-<span id="tags">
+<span id="tags" style="font-family: 'Courier New', Courier, monospace;">
   &nbsp;&nbsp;
   {{ range $index, $tag := . }} {{ with $.Site.GetPage (printf "/%s/%s"
   $taxonomy $tag) -}}

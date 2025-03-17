@@ -1,5 +1,5 @@
 ---
-title: "Favicon Border-Radius Update"
+title: "#1: Favicon Border-Radius Update"
 subtitle: "Simple asset change on the index.html <head> section to modify the current favicon"
 date: "2025-03-16"
 toc: True

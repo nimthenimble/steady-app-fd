@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LinkedIn on </title>
+    <link>//localhost:1313/tags/linkedin/</link>
+    <description>Recent content in LinkedIn on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/linkedin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#2: LinkedIn Cover</title>
+      <link>//localhost:1313/post/steady-cover/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/steady-cover/</guid>
+      <description>&lt;p&gt;While the blog is still in building progress, which will probably be added on the &lt;strong&gt;issue #4&lt;/strong&gt;. It&amp;rsquo;ll explain on how the blog was built, and I can already say that in order to build it, the &lt;a href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer nofollow&#34;&gt;Hugo Framework&lt;/a&gt;&#xA; will be used.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve designed with the use of &lt;a href=&#34;https://canva.com&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer nofollow&#34;&gt;Canva&lt;/a&gt;&#xA; a cover which can both be used in the LinkedIn and on the blog. It perfectly fits a user profile in LinkedIn, but does not adapt fully to company profiles as the cover width and height are smaller. &lt;a href=&#34;https://linkedin.com/company/steady-app&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer nofollow&#34;&gt;Steady now has a LinkedIn!&lt;/a&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

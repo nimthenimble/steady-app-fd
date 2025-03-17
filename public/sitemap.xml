@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/steady-cover/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/brand-kit/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/graphic-design/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/linkedin/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/favicon-change/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/border-radius/</loc>
@@ -11,17 +32,12 @@
     <loc>//localhost:1313/tags/favicon/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/favicon-change/</loc>
-    <lastmod>2025-03-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/html/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
-    <lastmod>2025-03-16T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/post/app-checkbox-fix/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-03-16T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/post/hugo-blog/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url>
